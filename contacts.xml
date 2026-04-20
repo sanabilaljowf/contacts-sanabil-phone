@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneDirectory>
-  
-<DirectoryEntry>
-<Name>عمرو عبدالحميد</Name>
-<Telephone>101</Telephone>
-</DirectoryEntry>
-  
-<DirectoryEntry>
-<Name>عبده</Name>
-<Telephone>105</Telephone>
-</DirectoryEntry>
-  
-<DirectoryEntry>
-<Name> ايفون</Name>
-<Telephone>95</Telephone>
-</DirectoryEntry>
 
-<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>عمرو عبدالحميد</Name>
+    <Telephone>101</Telephone>
+  </DirectoryEntry>
+
+  <DirectoryEntry>
+    <Name>عبده</Name>
+    <Telephone>105</Telephone>
+  </DirectoryEntry>
+
+  <DirectoryEntry>
+    <Name>ايفون</Name>
+    <Telephone>95</Telephone>
+  </DirectoryEntry>
+
+</YealinkIPPhoneDirectory>
